@@ -11,3 +11,4 @@ Desarrollar un sistema donde el usuario pueda consultar, mediante gráficos, el 
 ## Población objetivo
 
 Cualquier usuario que desee consultar el número de casos confirmados y de defuniones por la enfermedad en alguno de los países del continente americano, así como su ecuación logarítmica correspondiente.
+Prueba
